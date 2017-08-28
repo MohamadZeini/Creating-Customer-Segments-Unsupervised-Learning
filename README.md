@@ -1,5 +1,7 @@
-# Content: Unsupervised Learning
-## Project: Creating Customer Segments
+# Project: Creating Customer Segments
+## Unsupervised Machine Learning
+
+To see the project refer to customer_segments.ipynb file.
 
 ### Install
 
